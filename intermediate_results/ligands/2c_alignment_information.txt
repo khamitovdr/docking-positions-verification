@@ -1,0 +1,7 @@
+Query Atom Index:	   3    5    8   10   11   15   20   22   23   24   25   26   27   29   31 
+Query Atom Type: 	   O    N    N    C    C    C    C    C    C    C    C    C    C    C    C 
+Aligned Tag:     	   :    :    :    .    :    .    :    :    :    :    :    :    .    .    . 
+Aligned Distance:	0.94 0.68 0.62 1.13 0.82 1.51 0.94 0.57 0.90 0.83 0.77 0.29 1.01 1.16 1.52 
+Templ Atom Type: 	   O    N    C   CL    F    C    C    C    C    C    N    C    C    C    C 
+Templ Atom Index:	  12   23   18    9    6    8   13   25   20   26   24   19   22   10   11 
+    

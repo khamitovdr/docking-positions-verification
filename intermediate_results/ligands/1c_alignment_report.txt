@@ -1,0 +1,9 @@
+
+        QEURY_NAME         TEMPL_NAME PC-score8Q PC-score8T  Pval_PC8Q  Pval_PC8T   JaccardR    RMSD_lb    QUERY_SIZE     TEMPL_SIZE 
+                                                                                                         (Without "H")  (Without "H")
+         122582678 gand_reference.pdb     0.5011     0.6514   0.612966   0.058599     0.3269     1.7526             39             30
+
+Using 0.000841-s to load mol2 files.
+Using 1.62188-s to do LS-align. 
+Totally Using 1.62272-s.
+

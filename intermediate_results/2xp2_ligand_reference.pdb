@@ -1,0 +1,117 @@
+HEADER    TRANSFERASE                             24-AUG-10   2XP2              
+TITLE     STRUCTURE OF THE HUMAN ANAPLASTIC LYMPHOMA KINASE IN COMPLEX WITH
+TITLE    2 CRIZOTINIB (PF-02341066)
+REMARK   1                                                                      
+REMARK   4                                                                      
+REMARK   4      COMPLIES WITH FORMAT V. 3.20, 04-AUG-22                    
+CRYST1   51.633   57.086  104.709  90.00  90.00  90.00 P 21 21 21    4          
+MODEL        1
+HETATM    1 CL   VGH A9000      32.937  46.331   6.622  1.00 44.26          CL  
+HETATM    2  C13 VGH A9000      33.402  46.018   8.273  1.00 43.22           C  
+HETATM    3  C3  VGH A9000      34.222  47.002   8.900  1.00 43.32           C  
+HETATM    4  H3  VGH A9000      34.495  47.815   8.385  1.00 43.32           H  
+HETATM    5  C2  VGH A9000      34.656  46.847  10.241  1.00 42.25           C  
+HETATM    6  H2  VGH A9000      35.230  47.551  10.659  1.00 42.25           H  
+HETATM    7  C12 VGH A9000      34.285  45.703  10.998  1.00 45.15           C  
+HETATM    8  F   VGH A9000      34.722  45.601  12.265  1.00 42.99           F  
+HETATM    9  C17 VGH A9000      32.995  44.825   9.012  1.00 43.03           C  
+HETATM   10  C18 VGH A9000      33.455  44.680  10.405  1.00 44.96           C  
+HETATM   11 CL2  VGH A9000      33.042  43.300  11.414  1.00 59.14          CL  
+HETATM   12  C21 VGH A9000      32.095  43.750   8.308  1.00 39.13           C  
+HETATM   13  H21 VGH A9000      31.958  44.123   7.390  1.00 39.13           H  
+HETATM   14  C1  VGH A9000      32.779  42.370   8.283  1.00 37.31           C  
+HETATM   15  H11 VGH A9000      33.645  42.432   7.787  1.00 37.31           H  
+HETATM   16  H12 VGH A9000      32.961  42.066   9.218  1.00 37.31           H  
+HETATM   17  H13 VGH A9000      32.175  41.716   7.828  1.00 37.31           H  
+HETATM   18  O27 VGH A9000      30.790  43.541   8.950  1.00 33.85           O  
+HETATM   19  C15 VGH A9000      29.790  44.510   9.126  1.00 32.23           C  
+HETATM   20  C4  VGH A9000      29.684  45.747   8.392  1.00 32.87           C  
+HETATM   21  H4  VGH A9000      30.370  45.970   7.700  1.00 32.87           H  
+HETATM   22  C19 VGH A9000      28.761  44.267  10.099  1.00 30.98           C  
+HETATM   23  N22 VGH A9000      28.798  43.076  10.850  1.00 26.96           N  
+HETATM   24 H221 VGH A9000      29.533  42.414  10.702  1.00 26.96           H  
+HETATM   25 H222 VGH A9000      28.089  42.892  11.531  1.00 26.96           H  
+HETATM   26  N23 VGH A9000      27.732  45.115  10.350  1.00 30.39           N  
+HETATM   27  C5  VGH A9000      27.660  46.278   9.640  1.00 33.14           C  
+HETATM   28  H5  VGH A9000      26.899  46.899   9.829  1.00 33.14           H  
+HETATM   29  C14 VGH A9000      28.609  46.661   8.641  1.00 34.48           C  
+HETATM   30  C16 VGH A9000      28.498  47.968   7.866  1.00 36.37           C  
+HETATM   31  C6  VGH A9000      29.544  48.638   7.090  1.00 37.83           C  
+HETATM   32  H6  VGH A9000      30.481  48.308   6.973  1.00 37.83           H  
+HETATM   33  C7  VGH A9000      27.380  48.793   7.737  1.00 38.44           C  
+HETATM   34  H7  VGH A9000      26.470  48.662   8.131  1.00 38.44           H  
+HETATM   35  N26 VGH A9000      27.829  49.854   6.923  1.00 39.89           N  
+HETATM   36  N24 VGH A9000      29.063  49.720   6.583  1.00 39.52           N  
+HETATM   37  C20 VGH A9000      27.017  51.017   6.477  1.00 45.76           C  
+HETATM   38  H20 VGH A9000      27.514  51.479   5.742  1.00 45.76           H  
+HETATM   39  C8  VGH A9000      26.819  52.017   7.637  1.00 48.47           C  
+HETATM   40  H82 VGH A9000      26.348  51.563   8.394  1.00 48.47           H  
+HETATM   41  H83 VGH A9000      27.709  52.342   7.956  1.00 48.47           H  
+HETATM   42  C10 VGH A9000      25.975  53.218   7.146  1.00 51.46           C  
+HETATM   43 H102 VGH A9000      25.796  53.825   7.920  1.00 51.46           H  
+HETATM   44 H103 VGH A9000      26.495  53.718   6.454  1.00 51.46           H  
+HETATM   45  N25 VGH A9000      24.673  52.790   6.555  1.00 52.65           N1+
+HETATM   46 H251 VGH A9000      24.110  52.388   7.277  1.00 52.65           H  
+HETATM   47 H252 VGH A9000      24.206  53.595   6.188  1.00 52.65           H  
+HETATM   48  C11 VGH A9000      24.836  51.791   5.460  1.00 50.34           C  
+HETATM   49 H112 VGH A9000      23.931  51.491   5.158  1.00 50.34           H  
+HETATM   50 H113 VGH A9000      25.308  52.225   4.692  1.00 50.34           H  
+HETATM   51  C9  VGH A9000      25.648  50.556   5.913  1.00 49.34           C  
+HETATM   52  H92 VGH A9000      25.795  49.946   5.134  1.00 49.34           H  
+HETATM   53  H93 VGH A9000      25.142  50.063   6.621  1.00 49.34           H  
+CONECT    1    2
+CONECT    2    1    3    9
+CONECT    3    2    4    5
+CONECT    4    3
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8   10
+CONECT    8    7
+CONECT    9    2   10   12
+CONECT   10    7    9   11
+CONECT   11   10
+CONECT   12    9   13   14   18
+CONECT   13   12
+CONECT   14   12   15   16   17
+CONECT   15   14
+CONECT   16   14
+CONECT   17   14
+CONECT   18   12   19
+CONECT   19   18   20   22
+CONECT   20   19   21   29
+CONECT   21   20
+CONECT   22   19   23   26
+CONECT   23   22   24   25
+CONECT   24   23
+CONECT   25   23
+CONECT   26   22   27
+CONECT   27   26   28   29
+CONECT   28   27
+CONECT   29   20   27   30
+CONECT   30   29   31   33
+CONECT   31   30   32   36
+CONECT   32   31
+CONECT   33   30   34   35
+CONECT   34   33
+CONECT   35   33   36   37
+CONECT   36   31   35
+CONECT   37   35   38   39   51
+CONECT   38   37
+CONECT   39   37   40   41   42
+CONECT   40   39
+CONECT   41   39
+CONECT   42   39   43   44   45
+CONECT   43   42
+CONECT   44   42
+CONECT   45   42   46   47   48
+CONECT   46   45
+CONECT   47   45
+CONECT   48   45   49   50   51
+CONECT   49   48
+CONECT   50   48
+CONECT   51   37   48   52   53
+CONECT   52   51
+CONECT   53   51
+ENDMDL
+MASTER        3    0    0    0    0    0    0    0   53    0   53    0
+END
