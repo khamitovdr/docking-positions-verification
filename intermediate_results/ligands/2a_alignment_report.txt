@@ -3,7 +3,7 @@
                                                                                                          (Without "H")  (Without "H")
      C26H33Cl2N7O2 gand_reference.pdb     0.5483     0.6762   0.291558   0.033144     0.3958     1.8789             37             30
 
-Using 0.000766-s to load mol2 files.
-Using 1.26109-s to do LS-align. 
-Totally Using 1.26185-s.
+Using 0.002844-s to load mol2 files.
+Using 1.18488-s to do LS-align. 
+Totally Using 1.18773-s.
 

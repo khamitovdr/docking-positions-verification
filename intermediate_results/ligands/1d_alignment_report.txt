@@ -3,7 +3,7 @@
                                                                                                          (Without "H")  (Without "H")
          117991320 gand_reference.pdb     0.5297     0.6533   0.384662   0.050054     0.3958     1.4462             37             30
 
-Using 0.00072-s to load mol2 files.
-Using 1.32917-s to do LS-align. 
-Totally Using 1.32989-s.
+Using 0.002872-s to load mol2 files.
+Using 1.32591-s to do LS-align. 
+Totally Using 1.32879-s.
 

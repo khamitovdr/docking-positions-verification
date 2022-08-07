@@ -3,7 +3,7 @@ TITLE     STRUCTURE OF THE HUMAN ANAPLASTIC LYMPHOMA KINASE IN COMPLEX WITH
 TITLE    2 CRIZOTINIB (PF-02341066)
 REMARK   1                                                                      
 REMARK   4                                                                      
-REMARK   4      COMPLIES WITH FORMAT V. 3.20, 04-AUG-22                    
+REMARK   4      COMPLIES WITH FORMAT V. 3.20, 08-AUG-22                    
 CRYST1   51.633   57.086  104.709  90.00  90.00  90.00 P 21 21 21    4          
 MODEL        1
 HETATM    1 CL   VGH A9000      32.937  46.331   6.622  1.00 44.26          CL  
