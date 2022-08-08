@@ -126,3 +126,9 @@ ui-tests/playwright-report
 
 # VSCode
 .vscode
+
+
+
+# custom
+
+intermediate_results
